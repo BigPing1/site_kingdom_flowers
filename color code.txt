@@ -1,0 +1,3 @@
+#bfc4ac - primary green
+#dad7cd - primary light
+#7e9971 - two green
